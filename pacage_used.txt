@@ -1,0 +1,48 @@
+Backend
+npm init -y to initialize node module
+npm i express cors dotenv mongodb mongoose
+npm i ts-node typescript nodemon @types/cors @types/node -- save-dev
+npx tsc --init {to create tsconfig.json}
+npm i express-oauth2-jwt-bearer -- to install backend sdk
+npm i jsonwebtoken
+npm i @types/jsonwebtoken --save-dev
+npm i express-validator
+
+
+Frontend
+https://ui.shadcn.com/ for some ui
+npm create vite@latest for  creating react project using vite
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p {for tailwind css}
+npm i -D @types/node
+npx shadcn-ui@latest init
+sheet component of shadncn is used for responsive navbar npx shadcn-ui@latest add sheet
+ npm i lucide-react for icons
+
+react hook form and zod from shadcn for the form
+npx shadcn-ui@latest add form
+npx shadcn-ui@latest add input
+npm i zod
+
+React Router Setup in Frontend
+npm i react-router-dom
+
+ npm i react-query
+
+npx shadcn-ui@latest add sonner for toaster
+
+
+Database
+mongodb.com 
+username: ostiarun55 password: Mango%40run55
+
+Auth 0 - for user login, signup, password reset
+npm i @auth0/auth0-react
+
+Authenticated User
+npx shadcn-ui@latest add dropdown-menu
+
+to check api
+Install Thunder Client
+
+we used "useMutation" hook to control api request
